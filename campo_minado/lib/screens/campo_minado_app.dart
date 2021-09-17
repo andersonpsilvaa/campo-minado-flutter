@@ -2,7 +2,6 @@ import 'package:campo_minado/components/tabuleiro_widget.dart';
 import 'package:campo_minado/models/tabuleiro.dart';
 import 'package:flutter/material.dart';
 import '../components/resultado_widget.dart';
-import '../components/campo_widget.dart';
 import '../models/campo.dart';
 import '../models/explosao_exception.dart';
 
